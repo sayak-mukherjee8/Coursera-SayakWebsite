@@ -1,2 +1,2 @@
-# Coursera-test-Sayak
+# coursera-test-Sayak
 Coursera Test Repository
